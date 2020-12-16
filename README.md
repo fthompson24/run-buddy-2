@@ -12,3 +12,5 @@ https://fthompson24.github.io/run-buddy-2/
 
 ## Contribution
 Made with ❤️ by Fraser Thompson
+
+### ©️2019 Run Buddy, Inc 
