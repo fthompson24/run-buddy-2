@@ -247,6 +247,22 @@ section {
 .trainer-bio p {
     font-size: 17px;
 }
+
+/*CSS GRID*/
+
+.service-grid-container {
+    display:grid;
+}
+.service-grid-item {
+    width:200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
+/*REACH OUT*/
+
 .contact {
     background: #024e76;
 }
@@ -300,6 +316,7 @@ section {
 .contact-info a {
     color: #fce138;
 }
+/*MEDIA SCREENS*/
 
 @media screen and (max-width: 980px) {
     header {
